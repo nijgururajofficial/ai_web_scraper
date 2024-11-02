@@ -46,6 +46,6 @@ cd ai_web_scraper
 2. Run the main script:
 
 ```bash
-python main.py
+streamlit run main.py
 ```
 Customize scrape.py and parse.py to adapt the scraper to different websites.
